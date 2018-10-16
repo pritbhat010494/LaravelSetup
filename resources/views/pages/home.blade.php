@@ -3,7 +3,7 @@
     <br>
     <br>
     <br>
-    <h1>Hello, Welcome to Laravel!<br>
-        This is my homepage</h1>
+    <h1 style="color:black">Hello, Welcome to Laravel!<br>
+        This is my Homepage</h1>
 
 @endsection
